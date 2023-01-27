@@ -29,6 +29,42 @@
       "nomePagina": "Hosterr Landing Page",
       "linkDeploy": "https://harmonious-salamander-dd6908.netlify.app/",
       "linkGit": "https://github.com/Otavio-Barra/Hosterr-Starter"
+    },
+    {
+      "imgCapa": "capa-card-shortly.png",
+      "nomePagina": "Shortly url",
+      "linkDeploy": "https://short-url-generator.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/encurtador-link"
+    },
+    {
+      "imgCapa": "apa-card-clip-board.png",
+      "nomePagina": "Clip-board",
+      "linkDeploy": "https://clip-board-lp.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/clipboard"
+    },
+    {
+      "imgCapa": "capa-card-rocket.png",
+      "nomePagina": "rocketNews Landing Page",
+      "linkDeploy": "https://warm-starburst-837a23.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/rocketNews"
+    },
+    {
+      "imgCapa": "capa-card-TODO.png",
+      "nomePagina": "Lista de tarefas",
+      "linkDeploy": "https://earnest-melba-05658a.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/TO-DO "
+    },
+    {
+      "imgCapa": "capa-card-calculadora.png",
+      "nomePagina": "Calculadora",
+      "linkDeploy": "https://harmonious-kashata-aa6eff.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/calculadora"
+    },
+    {
+      "imgCapa": "capa-card-devWeek.png",
+      "nomePagina": "Slider Pokemon",
+      "linkDeploy": "https://gleeful-otter-330aa0.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/devWeek"
     }
   ]
 }
