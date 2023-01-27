@@ -1,0 +1,22 @@
+{
+  "empresas": [
+    {
+      "imgCapa": "capa-card-insure.png",
+      "nomePagina": "Insure Landing Page",
+      "linkDeploy": "https://ornate-narwhal-abebdd.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/insure"
+    },
+    {
+      "imgCapa": "capa-card-sunsyn.png",
+      "nomePagina": "Sunnyside agency",
+      "linkDeploy": "https://profound-blancmange-d52729.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/Sunnyside-agency"
+    },
+    {
+      "imgCapa": "capa-card-insure.png",
+      "nomePagina": "Insure Landing Page",
+      "linkDeploy": "https://ornate-narwhal-abebdd.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/insure"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: min(90vw, 1280px);
+  margin: 5rem auto;
+  display: grid;
+  justify-content: space-between;
+  justify-items: center;
+  gap: 2rem;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card {
+  background-color: #fffffc;
+  max-width: 20rem;
+  border: 2px solid #000;
+  -webkit-box-shadow: 4px 4px 0 0 #a2a2a2;
+  -moz-box-shadow: 4px 4px 0 0 #a2a2a2;
+  box-shadow: 4px 4px 0 0 #a2a2a2;
+}
+
+.card .capa .img-capa {
+  width: 100%;
+}
+
+.card .content {
+  text-align: center;
+}
+
+.card .content .title {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.card .content .container-btn {
+  margin: 1.5rem 0;
+}
+
+.card .content .container-btn a:nth-child(1) {
+  margin-right: 0.5rem;
+}
+
+.card .content .container-btn button {
+  background-color: transparent;
+  font-size: 1.2rem;
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  -webkit-box-shadow: 5.5px 5.5px 0 0 #a2a2a2;
+  -moz-box-shadow: 5.5px 5.5px 0 0 #a2a2a2;
+  box-shadow: 5.5px 5.5px 0 0 #a2a2a2;
+}
+.card .content .container-btn button:hover {
+  background-color: #000;
+  color: #fff;
+  box-shadow: none;
+}
+.card .content .container-btn button i {
+  margin-right: 10px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer nav {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+}
+footer nav a i {
+  color: #000;
+  transition: all 0.3s ease-in-out;
+}
+footer nav a:not(:last-child) {
+  margin-right: 2rem;
+}
+footer nav a i:hover {
+  transform: scale(1.4);
+}
+
+@media (max-width: 975px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 640px) {
+  .container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
