@@ -19,16 +19,16 @@
       "linkGit": "https://github.com/Otavio-Barra/Fylo-landing-page"
     },
     {
-      "imgCapa": "capa-card-fylo.png",
-      "nomePagina": "Fylo Landing Page",
-      "linkDeploy": "https://strong-sawine-aac850.netlify.app/",
-      "linkGit": "https://github.com/Otavio-Barra/Fylo-landing-page"
+      "imgCapa": "capa-card-barbearia.png",
+      "nomePagina": "Barbearia Landing Page",
+      "linkDeploy": "https://stalwart-cannoli-193810.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/barbearia"
     },
     {
-      "imgCapa": "capa-card-fylo.png",
-      "nomePagina": "Fylo Landing Page",
-      "linkDeploy": "https://strong-sawine-aac850.netlify.app/",
-      "linkGit": "https://github.com/Otavio-Barra/Fylo-landing-page"
+      "imgCapa": "capa-card-hosterr.png",
+      "nomePagina": "Hosterr Landing Page",
+      "linkDeploy": "https://harmonious-salamander-dd6908.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/Hosterr-Starter"
     }
   ]
 }
