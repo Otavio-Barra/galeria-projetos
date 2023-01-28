@@ -1,6 +1,12 @@
 {
   "empresas": [
     {
+      "imgCapa": "capa-card-real.png",
+      "nomePagina": "Real Trust",
+      "linkDeploy": "https://vermillion-valkyrie-a86ef4.netlify.app/",
+      "linkGit": "https://github.com/Otavio-Barra/Real-Trust"
+    },
+    {
       "imgCapa": "capa-card-insure.png",
       "nomePagina": "Insure Landing Page",
       "linkDeploy": "https://ornate-narwhal-abebdd.netlify.app/",
@@ -53,12 +59,6 @@
       "nomePagina": "Lista de tarefas",
       "linkDeploy": "https://earnest-melba-05658a.netlify.app/",
       "linkGit": "https://github.com/Otavio-Barra/TO-DO "
-    },
-    {
-      "imgCapa": "capa-card-calculadora.png",
-      "nomePagina": "Calculadora",
-      "linkDeploy": "https://harmonious-kashata-aa6eff.netlify.app/",
-      "linkGit": "https://github.com/Otavio-Barra/calculadora"
     },
     {
       "imgCapa": "capa-card-devWeek.png",
